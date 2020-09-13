@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me:gannoju15roshni@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I can fill a space in a beautiful way!
-
--:smile: Hobbies: Sketching,Painting.
+- :smile: Hobbies: Sketching,Painting.
 
