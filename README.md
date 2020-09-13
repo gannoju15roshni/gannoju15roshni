@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ..Machine Learning.
 - 👯 I've worked on 2 projects (Automated Rain Water Harvesting & Uber Fare Prediction)
 - 🤔 I’m looking for help with ... AI/ML.
-- 💬 Ask me about ...Sketching {because,it's my hidden talent:)}
+- 💬 Ask me about ...Sketching {because,it's my hidden talent:stuck_out_tongue_winking_eye:}
 - 📫 How to reach me:gannoju15roshni@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I can fill a space in a beautiful way!
