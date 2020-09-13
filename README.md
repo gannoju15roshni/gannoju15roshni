@@ -2,7 +2,7 @@
 
 I am *Roshni!*
 Just started learning GitHub and it's amazing!!
-And I'm a person who wants to learn something new!!
+And I'm a person who wants to learn something new!! :sparkles:
 
 Here are some ideas to get you started:
 
