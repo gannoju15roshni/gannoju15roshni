@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Sketching {because,it's my hidden talent:stuck_out_tongue_winking_eye:}
 - 📫 How to reach me:gannoju15roshni@gmail.com
 - 😄 Pronouns: *She* was into learning new stuff!:speak_no_evil:
--  Fun fact: I can fill a space in a beautiful way!
+-  :eyes:Fun fact: I can fill a space in a beautiful way!
 - :art: Hobbies: Sketching,Painting.
 
