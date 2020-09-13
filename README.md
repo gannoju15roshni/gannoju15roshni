@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**gannoju15roshni/gannoju15roshni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am  Roshni!
+Just started learning GitHub and it's amazing!!
+And I'm a person who wants to learn something new!!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m an UnderGraduate!
+- 🌱 I’m currently learning ..Machine Learning.
+- 👯 I've worked on 2 projects (Automated Rain Water Harvesting & Uber Fare Prediction)
+- 🤔 I’m looking for help with ... AI/ML.
+- 💬 Ask me about ...Sketching {because,it's my hidden talent:)}
+- 📫 How to reach me:gannoju15roshni@gmail.com
+- 😄 Pronouns: She
+- ⚡ Fun fact: I can fill a space in a beautiful way!
 -->
